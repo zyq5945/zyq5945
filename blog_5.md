@@ -1,4 +1,4 @@
-We will probably abandon inefficient google-style information acquisition, and usher in an efficient inheritance-style information acquisition
+The most problematic user experience in the history of the Internet
 ==================================================================
 
 ### [*This article is a translation of the Chinese version using Bing and Google*](.) 
