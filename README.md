@@ -5,4 +5,5 @@ zyq5945的博客
 + ## [互联网史上最有问题的用户体验](blog_3.md)
 + ## [一个民间药方收集整理众筹平台](blog_4.md)
 + ## [The most problematic user experience in the history of the Internet](blog_5.md)
-+ ## [我可能发现了什么是埃德加·凯西预言的身体能量](blog_6.md)
++ ## [我可能发现了什么是埃德加·凯西预言的身体能量（上篇·猜谜）](blog_6.md)
++ ## [我可能发现了什么是埃德加·凯西预言的身体能量（下篇·解密）](blog_7.md)
