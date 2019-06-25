@@ -7,3 +7,4 @@ zyq5945的博客
 + ## [The most problematic user experience in the history of the Internet](blog_5.md)
 + ## [我可能发现了什么是埃德加·凯西预言的身体能量（上篇·猜谜）](blog_6.md)
 + ## [我可能发现了什么是埃德加·凯西预言的身体能量（下篇·解密）](blog_7.md)
++ ## [一个3D验证码系统的设想](blog_8.md)
