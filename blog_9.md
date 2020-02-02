@@ -60,7 +60,7 @@
 
 数据地址：https://baike.baidu.com/item/SARS%E4%BA%8B%E4%BB%B6/7702261?fr=aladdin
 
-[中国大陆地区SARS疫情统计Excel表（截止到2003年5月18日）](./SARS_China.xlsx)
+[中国大陆地区SARS疫情统计Excel表（截止到2003年5月18日）](./Data/SARS_China.xlsx)
 
 |省份|病例|医疗人员病例|死亡|康复|仍在治疗病例|死亡率|康复率|仍在治疗病例率|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
