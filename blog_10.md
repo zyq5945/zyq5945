@@ -1783,9 +1783,9 @@
 
 [卫生部5月18日通报全国内地非典型肺炎最新疫情](http://www.china.com.cn/chinese/2003/May/331415.htm)
 
-[扒的原始表格数据地址在这下载](./data/ SARS_China_Raw.xlsx)
+[扒的原始表格数据地址在这下载](./data/SARS_China_Raw.xlsx)
 
-[整理后的表格数据地址在这下载](./data/ SARS_China.xlsx)
+[整理后的表格数据地址在这下载](./data/SARS_China.xlsx)
 
 [百度百科---SARS事件](https://baike.baidu.com/item/SARS%E4%BA%8B%E4%BB%B6/7702261?fr=aladdin)
 
