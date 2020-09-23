@@ -34,25 +34,25 @@
 
 | 名称            | 说明                         | 值                                                                                         |
 |---------------|----------------------------|-------------------------------------------------------------------------------------------|
-| 0530Confirmed | 2020年5月30日确诊数              |                                                                                           |
-| 0530Deaths    | 2020年5月30日死亡数              |                                                                                           |
-| 0530Recovered | 2020年5月30日康复数              |                                                                                           |
-| Before\-EC    | 2020年5月30日的估计置信度           | =\(0530Deaths\+0530Recovered\)/0530Confirmed                                              |
-| Before\-EDR   | 2020年5月30日的估计死亡率           | =0530Deaths/\(0530Deaths\+0530Recovered\)                                                 |
-| Before\-ERR   | 2020年5月30日的估计康复率           | =0530Recovered/\(0530Deaths\+0530Recovered\)                                              |
+| 0531Confirmed | 2020年5月31日确诊数              |                                                                                           |
+| 0531Deaths    | 2020年5月31日死亡数              |                                                                                           |
+| 0531Recovered | 2020年5月31日康复数              |                                                                                           |
+| Before\-EC    | 2020年5月31日的估计置信度           | =\(0531Deaths\+0531Recovered\)/0531Confirmed                                              |
+| Before\-EDR   | 2020年5月31日的估计死亡率           | =0531Deaths/\(0531Deaths\+0531Recovered\)                                                 |
+| Before\-ERR   | 2020年5月31日的估计康复率           | =0531Recovered/\(0531Deaths\+0531Recovered\)                                              |
 | 0921Confirmed | 2020年9月21日确诊数              |                                                                                           |
 | 0921Deaths    | 2020年9月21日死亡数              |                                                                                           |
 | 0921Recovered | 2020年9月21日康复数              |                                                                                           |
-| After\-EC     | 2020年6月1日至2020年9月21日的估计置信度 | =\(0921Confirmed\-0921Deaths\-0921Recovered\)/\(0921Confirmed\-0530Deaths\-0530Recovered） |
-| After\-EDR    | 2020年6月1日至2020年9月21日的估计死亡率 | =\(0921Deaths\-0530Deaths\)/\(0921Deaths\+0921Recovered\-0530Deaths\-0530Recovered）       |
-| After\-ERR    | 2020年6月1日至2020年9月21日的估计康复率 | =\(0921Recovered\-0530Recovered\)/\(0921Deaths\+0921Recovered\-0530Deaths\-0530Recovered） |
+| After\-EC     | 2020年6月1日至2020年9月21日的估计置信度 | =\(0921Confirmed\-0921Deaths\-0921Recovered\)/\(0921Confirmed\-0531Deaths\-0531Recovered） |
+| After\-EDR    | 2020年6月1日至2020年9月21日的估计死亡率 | =\(0921Deaths\-0531Deaths\)/\(0921Deaths\+0921Recovered\-0531Deaths\-0531Recovered）       |
+| After\-ERR    | 2020年6月1日至2020年9月21日的估计康复率 | =\(0921Recovered\-0531Recovered\)/\(0921Deaths\+0921Recovered\-0531Deaths\-0531Recovered） |
 | ERR\-Changed  | 估计康复率提升率                   | 之后的估计康复率减去之前的估计康复率                                                                        |
 
 注：最好针对After-EC和Before-EC都较高且是大数据的地区进行分析，尤其针对那些Before-EC小于20%的数据进行分析的价值不大，有的数据肯定是有误的，这个也需要考虑。
 
 下面是国家确诊数超过1000，按After-EC从高往低排序情况：
 
-| Name                   | 0530Confirmed | 0530Deaths | 0530Recovered | Before\-EC | Before\-EDR | Before\-ERR | 0921Confirmed | 0921Deaths | 0921Recovered | After\-EC | After\-EDR | After\-ERR | ERR\-Changed |
+| Name                   | 0531Confirmed | 0531Deaths | 0531Recovered | Before\-EC | Before\-EDR | Before\-ERR | 0921Confirmed | 0921Deaths | 0921Recovered | After\-EC | After\-EDR | After\-ERR | ERR\-Changed |
 |------------------------|---------------|------------|---------------|------------|-------------|-------------|---------------|------------|---------------|-----------|------------|------------|--------------|
 | Djibouti               | 3194          | 22         | 1286          | 40\.95%    | 1\.68%      | 98\.32%     | 5404          | 61         | 5336          | 99\.83%   | 0\.95%     | 99\.05%    | 0\.73%       |
 | Singapore              | 34366         | 23         | 20727         | 60\.38%    | 0\.11%      | 99\.89%     | 57606         | 27         | 57241         | 99\.08%   | 0\.01%     | 99\.99%    | 0\.10%       |
@@ -171,7 +171,7 @@
 
 下面是美国各地区确诊数超过1000，按After-EC从高往低排序情况：
 
-| Name                 | 0530Confirmed | 0530Deaths | 0530Recovered | Before\-EC | Before\-EDR | Before\-ERR | 0921Confirmed | 0921Deaths | 0921Recovered | After\-EC | After\-EDR | After\-ERR | ERR\-Changed |
+| Name                 | 0531Confirmed | 0531Deaths | 0531Recovered | Before\-EC | Before\-EDR | Before\-ERR | 0921Confirmed | 0921Deaths | 0921Recovered | After\-EC | After\-EDR | After\-ERR | ERR\-Changed |
 |----------------------|---------------|------------|---------------|------------|-------------|-------------|---------------|------------|---------------|-----------|------------|------------|--------------|
 | New Hampshire        | 4492          | 238        | 2802          | 67\.68%    | 7\.83%      | 92\.17%     | 7952          | 438        | 7201          | 93\.63%   | 4\.35%     | 95\.65%    | 3\.48%       |
 | Mississippi          | 15229         | 723        | 9401          | 66\.48%    | 7\.14%      | 92\.86%     | 93556         | 2810       | 85327         | 93\.50%   | 2\.68%     | 97\.32%    | 4\.47%       |
