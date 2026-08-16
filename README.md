@@ -1,6 +1,8 @@
 zyq5945的博客
----------  
+---------
 
++ ### [COVID-19 Recovery: A Regional and Time-Period Comparison](blog_16_en.md)
++ ### [COVID-19 康复情况的各地区与时段对比](blog_16_zh.md)
 + ### [通过对估计康复率数值的分析，我可能发现了COVID-19康复情况的规律](blog_15.md)
 + ### [由死亡数与康复数推算的康复率，看国际上COVID-19(2019-nCov)康复情况的好与坏](blog_14.md)
 + ### [使用OriginLab的Boltzmann模型拟合仿真预测中国COVID-19(2019-nCov)疫情康复情况](blog_13.md)
@@ -16,4 +18,3 @@ zyq5945的博客
 + ### [互联网史上最有问题的用户体验](blog_3.md)
 + ### [游戏反外挂的一些建议和想法](blog_2.md)
 + ### [基于非对称加密算法的登录与授权方式](blog_1.md)
-
