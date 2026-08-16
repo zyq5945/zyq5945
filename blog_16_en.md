@@ -333,7 +333,7 @@ Two additional columns were added: 0301–0901 Recovery Rate and Expectation. Th
 
 ### Summary
 
-A total of [20 regions](https://zyq5945.github.io/StageRecoveryRateAnalyzer/index.html?rf=data/CSSEGISandData_COVID-19_recovered_global.csv&df=data/CSSEGISandData_COVID-19_deaths_global.csv&lang=en&ds=2020-04-01&de=2021-03-01&mode=twostage&fs=2020-06-01&fe=2020-09-01&ss=2020-12-01&se=2021-03-01&sort=original&tsort=region&tdir=0&rfilter=/Russia$|Denmark$|Poland$|Germany$|Czechia$|Kazakhstan$|Austria$|Switzerland$|France$|Romania$|Croatia$|Bulgaria$|Italy$|Portugal$|Greece$|Turkey$|Japan$|Korea,+South$|Chile$|Argentina$/i&hideIllegal=0&hideInvalid=0) serve as the comparison, of which 18 are in the Northern Hemisphere and 2 in the Southern Hemisphere. Results: both Southern Hemisphere regions match "recovery is worse in winter than in summer"; 13 Northern Hemisphere regions match and 5 do not (the reason is currently unknown); France matches, but its Confidence_Rate on 2021-03-01 is questionable.
+A total of 20 regions serve as the comparison, of which 18 are in the Northern Hemisphere and 2 in the Southern Hemisphere. Results: both Southern Hemisphere regions match "recovery is worse in winter than in summer"; 13 Northern Hemisphere regions match and 5 do not (the reason is currently unknown); France matches, but its Confidence_Rate on 2021-03-01 is questionable.
 
 ---
 

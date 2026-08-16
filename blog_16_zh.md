@@ -333,7 +333,7 @@
 
 ### 总结
 
-共有 [20 个地区](https://zyq5945.github.io/StageRecoveryRateAnalyzer/index.html?rf=data/CSSEGISandData_COVID-19_recovered_global.csv&df=data/CSSEGISandData_COVID-19_deaths_global.csv&lang=en&ds=2020-04-01&de=2021-03-01&mode=twostage&fs=2020-06-01&fe=2020-09-01&ss=2020-12-01&se=2021-03-01&sort=original&tsort=region&tdir=0&rfilter=/Russia$|Denmark$|Poland$|Germany$|Czechia$|Kazakhstan$|Austria$|Switzerland$|France$|Romania$|Croatia$|Bulgaria$|Italy$|Portugal$|Greece$|Turkey$|Japan$|Korea,+South$|Chile$|Argentina$/i&hideIllegal=0&hideInvalid=0)作为对照，其中北半球 18 个、南半球 2 个。结果：南半球 2 个均符合"冬天康复差于夏天"；北半球 13 个符合、5 个不符合（原因暂时未知）；法国虽符合，但其 2021-03-01 的置信率存疑。
+共有 20 个地区作为对照，其中北半球 18 个、南半球 2 个。结果：南半球 2 个均符合"冬天康复差于夏天"；北半球 13 个符合、5 个不符合（原因暂时未知）；法国虽符合，但其 2021-03-01 的置信率存疑。
 
 ---
 
