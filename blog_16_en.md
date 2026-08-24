@@ -251,6 +251,9 @@ In addition to the base fields, the table adds three columns: confirmed count, c
 
 Note: confidence rate = (recoveries + deaths) ÷ confirmed cases. The closer it is to 100%, the more complete the outcome reporting of cases; below 80% indicates that many cases have not yet reported an outcome (still hospitalized, underreported, or due to definitional issues); above 100% indicates an error in the statistics.
 
+![Top 10 regions by full-period stage recovery rate](images/sec3_top10_en.jpg)
+![All regions — full-period stage recovery rate (sorted descending, n = 120)](images/sec3_all_en.jpg)
+
 ### Summary
 
 Among the top ten regions by stage recovery rate, except for Mongolia, the absolute values of the latitudes of the remaining regions are all within 30°, and their historical weather tends to be warm. These ten regions can be further divided into three tiers: Singapore is in the first tier and stands alone; Qatar, the Maldives, and the United Arab Emirates form the second tier; the remaining regions form the third. The top ten regions are concentrated in low-latitude warm zones, consistent with the direction of the judgment in Section 1: recovery rates are higher in warm environments.
@@ -303,6 +306,8 @@ This section uses the [CSSEGISandData COVID-19 data](https://github.com/CSSEGISa
 | Argentina | 2020/12/1 | 1263251 | 38928 | 2021/3/1 | 1911338 | 52077 | 648087  | 13149 | 661236  | 98.01% | 0.70%  | 2112023 | 92.96% | -63.6167   | -38.4161  | 8536    | TRUE  |
 
 Two additional columns were added: "Recovery Rate Change" and "Expectation." The Recovery Rate Change is the difference obtained by subtracting the first comparison group's recovery rate from the second comparison group's recovery rate for the same region; an Expectation value of TRUE means the region matches the expectation that "recovery is worse in winter than in summer." The expectation is judged by the local season: in the Northern Hemisphere, December–February is winter and June–August is summer, and the reverse in the Southern Hemisphere.
+
+![Summer vs winter stage recovery rate by region](images/sec4_compare_en.jpg)
 
 ### Summary
 

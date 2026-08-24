@@ -1,6 +1,8 @@
 zyq5945的博客
 ---------
 
++ ### [The Seasonal Signal Drowned Out by Waves: Stratified Evidence for Higher Cold-Season COVID-19 Fatality (2020–2023)](blog_17_en.md)
++ ### [被波次淹没的季节信号：COVID-19 冷季病死率偏高的分层证据（2020–2023](blog_17_zh.md)
 + ### [COVID-19 Recovery: A Regional and Time-Period Comparison](blog_16_en.md)
 + ### [COVID-19 康复情况的各地区与时段对比](blog_16_zh.md)
 + ### [通过对估计康复率数值的分析，我可能发现了COVID-19康复情况的规律](blog_15.md)
