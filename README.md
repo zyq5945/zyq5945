@@ -1,6 +1,7 @@
 zyq5945的博客
 ---------
 
++ ### [COVID-19的冬天真的更致命吗](blog_18.md)
 + ### [The Seasonal Signal Drowned Out by Waves: Stratified Evidence for Higher Cold-Season COVID-19 Fatality (2020–2023)](blog_17_en.md)
 + ### [被波次淹没的季节信号：COVID-19 冷季病死率偏高的分层证据（2020–2023）](blog_17_zh.md)
 + ### [COVID-19 Recovery: A Regional and Time-Period Comparison](blog_16_en.md)
