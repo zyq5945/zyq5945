@@ -262,8 +262,7 @@ Note: Mongolia is at latitude 46.86°, and its confirmed count on 2021-07-31 exc
 
 Singapore's weather is distinctive. According to the [historical weather data from 2020-04-01 to 2021-08-01](https://archive-api.open-meteo.com/v1/archive?latitude=1.2833&longitude=103.8333&start_date=2020-04-01&end_date=2021-08-01&daily=temperature_2m_max,temperature_2m_min&timezone=auto), the local minimum temperature ranges from 22.9°C to 27.5°C, and the maximum from 24.6°C to 33.7°C. Singapore has a small land area, so the nationwide temperature difference is usually only 1–3°C, and the temperature at a single point can essentially represent the whole country (something large countries find hard to achieve).
 
-
-Note: Subsequent research revealed that Singapore’s mortality statistics count only those cases where COVID-19 was the underlying or direct cause of death; consequently, the recovery rate at any given stage does not accurately reflect the overall recovery situation. However, if data regarding the severity of symptoms (mild vs. severe) were available, the impact of weather conditions could be compared against other locations.
+Note: Later research revealed that Singapore's death statistics only include cases where COVID-19 is the underlying cause or direct cause of death, excluding cases where individuals died while carrying the virus but from other causes. Therefore, the stage recovery rate cannot accurately reflect the overall recovery situation. However, if data on the severity of symptoms were available, the weather characteristics could be compared with other control groups.
 
 ---
 
